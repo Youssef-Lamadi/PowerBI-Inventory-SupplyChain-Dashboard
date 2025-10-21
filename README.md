@@ -63,7 +63,11 @@ Performed in **Power Query**:
 ---
 
 ## 📷 Dashboard Preview
-*(To be added once visuals are completed)*
+![Dashboard Preview](img3.jpg)
+![Dashboard Preview](img1.jpg)
+![Dashboard Preview](img2.jpg)
+
+
 
 ---
 
