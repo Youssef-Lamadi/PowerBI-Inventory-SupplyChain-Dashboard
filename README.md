@@ -32,8 +32,7 @@ The dataset contains detailed operational metrics including inventory levels, su
 Performed in **Power Query**:
 - Cleaned missing or inconsistent values  
 - Converted data types  
-- Created calculated columns and measures  
-- Built relationships for future scalability (e.g., Suppliers ↔ Warehouses)
+- Created calculated columns and measures
 
 ---
 
@@ -58,7 +57,7 @@ Performed in **Power Query**:
 - **Power BI** – Data modeling & visualization  
 - **Power Query** – Data cleaning and transformation  
 - **DAX** – Calculated measures and KPIs  
-- **Excel / CSV** – Data source format  
+- **CSV** – Data source format  
 
 ---
 
@@ -81,9 +80,4 @@ Performed in **Power Query**:
 **Youssef Lamadi**  
 _Data Analyst | Power BI Enthusiast_
 
----
 
-## 📅 Status
-✅ Data Cleaning  
-✅ Modeling  
-🔄 Dashboard Design (In Progress)
